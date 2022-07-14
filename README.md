@@ -1,4 +1,4 @@
-# Matplotlib-challenge
+# Statistical-Analysis-Matplotlib
 This assignment consisted of using python pandas in Jupyter Notebook to work with two CSV files, perform an analysis, output plots using Matplotlib, and add a summary analysis within Jupyter Notebook.  
 
 # What the code does (in general terms)
