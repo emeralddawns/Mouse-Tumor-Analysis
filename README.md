@@ -35,5 +35,5 @@ The following trends have been observed in the data.
 # Linear Regression Plot
 The following graph displays the linear regression model. The correlation value is .84.
 
-![LinearRegression.png](graphs/LinearRegression.png)
+![LinearRegression.png](Pymaceuticals/graphs/LinearRegression.png)
 
