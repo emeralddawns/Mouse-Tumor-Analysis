@@ -1,5 +1,5 @@
 # Statistical-Analysis-Matplotlib
-The purpose of the project is to analyze the tumor growth in mice. This code uses python pandas in Jupyter Notebook to work with two CSV files, perform an analysis, output plots using Matplotlib, and add a summary analysis within Jupyter Notebook.  
+The purpose of the project is to analyze tumor growth in mice. The code uses python pandas in Jupyter Notebook to work with two CSV files, perform an analysis, output plots using Matplotlib, and add a summary analysis within Jupyter Notebook.  
 
 # What the code does (in general terms)
 The code opens two corresponding CSV files, reads thru the data and calculates/creates any desired values, and plots the data
