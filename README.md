@@ -1,5 +1,5 @@
 # Statistical-Analysis-Matplotlib
-The purpose of the project is to analyze tumor growth in mice. The code uses python pandas in Jupyter Notebook to work with two CSV files, perform an analysis, output plots using Matplotlib, and add a summary analysis within Jupyter Notebook.  
+The purpose of the project is to analyze tumor growth in mice. The code uses python pandas in Jupyter Notebook to work with two CSV files, perform an analysis, output plots using Matplotlib, and add a summary analysis within Jupyter Notebook. 
 
 # What the code does (in general terms)
 The code opens two corresponding CSV files, reads thru the data and calculates/creates any desired values, and plots the data
@@ -31,3 +31,9 @@ The following trends have been observed in the data.
 2) The single outlier found (mouse c326, regimen Infubinol) has a final timepoint of "5". Only two timepoints are given for this mouse ("0" and "5"), and the tumor volume went down between these two timepoints. Given that the final timepoint for many other mice is "45", mouse c326 seems to have not taken part in the study in full, for whatever reason, and could likely be ignored.
 
 3) Tumor volume and mouse weight have a high correlation value (0.84). This could mean that one contributes to the other, or that they have common contributing factors.
+
+# Linear Regression Plot
+The following graph displays the linear regression model. The correlation value is .84.
+
+![LinearRegression.png](graphs/LinearRegression.png)
+
