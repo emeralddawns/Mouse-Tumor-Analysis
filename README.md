@@ -1,5 +1,5 @@
 # Analysis of Tumor Growth in Mice
-The purpose of the project is to analyze tumor growth in mice. The code uses python pandas in Jupyter Notebook to work with two CSV files, perform an analysis, output plots using Matplotlib, and add a summary analysis within Jupyter Notebook. 
+The purpose of the project is to analyze tumor growth in mice. The code uses python pandas in Jupyter Notebook to work with two CSV files, perform an analysis, output plots using Matplotlib, and add a summary analysis within Jupyter Notebook. Note that this project does **not** use real data.
 
 # What the code does (in general terms)
 The code opens two corresponding CSV files, reads thru the data and calculates/creates any desired values, and plots the data
